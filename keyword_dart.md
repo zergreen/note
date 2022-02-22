@@ -40,8 +40,11 @@
 # null (Handle)
 
 # final & const
+![const](src/const.png)
 <p> const เปลี่ยนค่าไม่ได้เลย แต่ final สามารถเปลี่ยนค่าได้จากการรับ่ค่าอื่น
-ตอนประกาศ่ตัว </p>
+ตอนประกาศ่ตัวแปร </p>
+![final](src/final.png)
+
 # on
 
 # typedef
